@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "630848574223",
+    "firebase_url": "https://sezami-8f3b5.firebaseio.com",
+    "project_id": "sezami-8f3b5",
+    "storage_bucket": "sezami-8f3b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630848574223:android:d27be7c5361f22f859e47a",
+        "android_client_info": {
+          "package_name": "zac.labsol.sezamiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630848574223-7bnha8jlkk3i0rpbutcbnbu8qbnfv061.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9fZfwRqjR4EoKzCKc6_juMx3o9cmwfbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630848574223-7bnha8jlkk3i0rpbutcbnbu8qbnfv061.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630848574223-3lm4cseqt7m9joinerhue22g3lucovaf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "zac.labsol.sezamiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
